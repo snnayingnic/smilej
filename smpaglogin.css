@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Silkscreen&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#cabecalho{
+font-family: 'Silkscreen', sans-serif;
+background-color: rgb(87, 208, 255);
+padding: 10px;
+margin: 0px;
+color: rgb(121, 0, 80);
+}
+#corpo{
+display:flex;
+justify-content: center;
+gap:10px;
+}
+#intro{
+    background-color: rgb(252, 231, 173);
+    margin: 10px;
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Amatic SC', sans-serif;
+}
+#form_login{
+    background-color: rgb(36, 35, 35);
+    border-radius: 7px;
+    padding: 10px;
+    margin: 10px;
+    color: rgb(66, 132, 207);
+
+}
+#blogin{
+    border-radius: 7px;
+    padding: 4px;
+}
